@@ -1,0 +1,24 @@
+{
+  "name": "httpserver",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "harshraj2hr",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshraj2hr/JavaScript-FullStack.git"
+  },
+  "bugs": {
+    "url": "https://github.com/harshraj2hr/JavaScript-FullStack/issues"
+  },
+  "homepage": "https://github.com/harshraj2hr/JavaScript-FullStack#readme",
+  "description": ""
+}
